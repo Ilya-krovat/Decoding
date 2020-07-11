@@ -1,6 +1,6 @@
-package decoding;
+package codeDecode;
 
-public interface DecodingInterface
+public interface CodeDecodeInterface
 {
   String code(String str);
 
